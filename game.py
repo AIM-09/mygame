@@ -1,1 +1,2 @@
-print("Wellcome to my game")
+print("Welcome to my game")
+print("Press S to Start the Game")
