@@ -4,3 +4,5 @@ print("Press S to Start the Game")
 # New scoring feature
 score = 0
 print(f"Your Score Is: {score}")
+
+print("Press R to Re-Start")
