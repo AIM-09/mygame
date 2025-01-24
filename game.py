@@ -1,2 +1,6 @@
 print("Welcome to my game")
 print("Press S to Start the Game")
+
+# New scoring feature
+score = 0
+print(f"Your Score Is: {score}")
