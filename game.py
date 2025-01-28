@@ -8,3 +8,5 @@ print(f"Your Score Is: {score}")
 print("Main Branch update to Scoring Feature")
 
 print("Scoring Feature in Progress")
+
+print("Press I to display game instructions")
