@@ -9,4 +9,4 @@ print("Main Branch update to Scoring Feature")
 
 print("Scoring Feature in Progress")
 
-print("Press I to display game instructions")
+print("This will make a conflict")
