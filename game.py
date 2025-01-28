@@ -12,3 +12,6 @@ print("Scoring Feature in Progress")
 print("This will make a conflict")
 
 print("this will be a conflict")
+
+print("Press C to simulate conflict")
+
